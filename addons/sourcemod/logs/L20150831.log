@@ -1,0 +1,64 @@
+L 08/31/2015 - 06:28:45: SourceMod log file session started (file "L20150831.log") (Version "1.7.2-dev+5200")
+L 08/31/2015 - 06:28:45: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 06:28:46: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 08/31/2015 - 06:28:50: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 19:53:45: SourceMod log file session started (file "L20150831.log") (Version "1.7.2-dev+5200")
+L 08/31/2015 - 19:53:45: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 19:53:45: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 08/31/2015 - 19:53:51: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 19:53:53: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d2.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2valve.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.ep1.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.csgo.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.sdk2013.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.contagion.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.blade.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.swarm.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.darkm.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.css.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.bgt.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.eye.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.insurgency.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/engine.dota.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/blacklist.plugins.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.fof.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.hl2ctf.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "sdkhooks.games/common.games.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2ctf.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] Successfully updated gamedata file "sdktools.games/common.games.txt"
+L 08/31/2015 - 19:53:54: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 08/31/2015 - 19:55:05: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 19:55:06: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:03:15: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:03:17: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:08:11: SourceMod log file session started (file "L20150831.log") (Version "1.7.2-dev+5200")
+L 08/31/2015 - 20:08:11: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:08:11: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 08/31/2015 - 20:08:12: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:08:54: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:08:55: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:13:52: SourceMod log file session started (file "L20150831.log") (Version "1.7.2-dev+5200")
+L 08/31/2015 - 20:13:52: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:13:52: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 08/31/2015 - 20:13:54: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:13:59: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:14:00: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:41:30: SourceMod log file session started (file "L20150831.log") (Version "1.7.2-dev+5200")
+L 08/31/2015 - 20:41:30: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:41:30: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 08/31/2015 - 20:41:32: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:43:02: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:43:03: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 20:43:47: [warmod.smx] "knife_on_3" (player "Cowelele // =^.^=<3><STEAM_1:0:27456117><>")
+L 08/31/2015 - 20:44:26: [basecommands.smx] "Cowelele // =^.^=<3><STEAM_1:0:27456117><>" refreshed the admin cache.
+L 08/31/2015 - 20:44:44: [warmod.smx] "force_start" (player "Cowelele // =^.^=<3><STEAM_1:0:27456117><>")
+L 08/31/2015 - 20:59:08: -------- Mapchange to de_dust2 --------
+L 08/31/2015 - 20:59:09: [warmod.smx] Current Map: de_dust2, Warmod Version: 0.5.6.2
+L 08/31/2015 - 21:01:45: [basecommands.smx] "Cowelele // =^.^=<4><STEAM_1:0:27456117><>" changed map to "de_season"
+L 08/31/2015 - 21:01:48: [SM] Changed map to "de_season"
+L 08/31/2015 - 21:02:01: -------- Mapchange to de_season --------
+L 08/31/2015 - 21:02:03: [warmod.smx] Current Map: de_season, Warmod Version: 0.5.6.2
